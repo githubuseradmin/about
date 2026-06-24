@@ -1,0 +1,9 @@
+# Личные файлы — НЕ публиковать в публичный репозиторий
+PORTFOLIO_RU.md
+BIO_RU.md
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
